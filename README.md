@@ -42,10 +42,17 @@ To see which day saw the largest differences between the max and min temperature
 
 ![image_url](https://github.com/Naadia12/Excel-Pivot-Tables/blob/3c24494e058c59dbc45adf0fbe28f7337a1eda21/Screenshot%202024-10-18%20114149.png)
 
-Then all the coloumns will be changed from sum to average 
+Then all the coloumns will be changed from sum to average.
 
 ![image_url](https://github.com/Naadia12/Excel-Pivot-Tables/blob/a71f3c45390fea59c4b14d19f6e093c37990cadd/Screenshot%202024-10-18%20114919.png)
 
+Now a calculated field will be created by clicking on the calculated field button. 
+
+![image_url](https://github.com/Naadia12/Excel-Pivot-Tables/blob/c5f3d9a763cd896af3364ac747a04bca5c610f12/Screenshot%202024-10-18%20115516.png)
+
+Now this has been created, you are able to see spread of any given date and month.
+
+![image_yrl](https://github.com/Naadia12/Excel-Pivot-Tables/blob/962e6cd2eb98bf1790037b1a8d5ffc3a80fd4aa7/Screenshot%202024-10-18%20115854.png)
 
 
 
